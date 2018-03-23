@@ -34,7 +34,7 @@ http://www.mulesoft.org/schema/mule/ee/dw http://www.mulesoft.org/schema/mule/ee
 %output application/json
 ---
 {
-   "mypayload":""
+   "myy_payload":""
 	
 } when payload.middleName  is :null
 
