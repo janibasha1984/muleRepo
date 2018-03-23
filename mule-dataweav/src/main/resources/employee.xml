@@ -1,0 +1,17 @@
+<employees>
+ <employee>
+  <name>Vijay</name>
+  <dept>IT</dept>
+  <salary>1000</salary>
+ </employee>
+<employee>
+  <name>Ravi</name>
+  <salary>100</salary>
+  <dept>IT</dept>
+ </employee>
+<employee>
+  <name>Krishna</name>
+  <salary>2000</salary>
+  <dept>IT</dept>
+ </employee>
+ </employees>
